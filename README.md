@@ -5,6 +5,7 @@
 - 📫 How to reach me +254 741302011
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a chilled guy
+- Maxwell 
 
 <!---
 Maxwellkosta/Maxwellkosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
